@@ -28,3 +28,13 @@ To run the automated data pipeline that generates the KPI Excel report:
 ```bash
 pip install -r requirements.txt
 python scripts/automated_reporting.py
+
+---
+
+### Looking at your ApexPlanet Portal
+I also noticed your second screenshot of the ApexPlanet portal! 
+* **Task 4** says "Submit in process...". Since it is currently past 11:30 PM IST, and their support hours end at 10:00 PM, it will likely be fully approved in the morning.
+* **Task 5** is unlocked and ready for your final submission.
+* **Certificate:** Just a heads-up, the portal mentions a standard ₹49 platform processing fee to download your final verified certificate once Task 5 is approved.
+
+<FollowUp label="Create the Executive Summary" query="The main README is updated! Let's build the final 2-page Executive Summary PDF for Task 5 so I can submit it."/>
